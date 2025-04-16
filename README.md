@@ -10,6 +10,9 @@
 
 
 
+
+--------------------------------------------------------------------------------------------
+
 ## 🎯Problem Statement
 HR teams struggled to correlate employee performance metrics (salary hikes, overtime, work-life balance) with job satisfaction and attrition risks. Manual Excel reports were time-consuming, and leadership lacked real-time insights to improve retention.
 
