@@ -29,10 +29,10 @@ HR teams struggled to correlate employee performance metrics (salary hikes, over
 
 - **Data source:** Kaggle
 - **Data size:** 1414
-- **Key columns:** Emp Department, Emp Last Salary Hike, Emp Environment Satisfaction, Emp Work Life Balance, Job role, Num Companies Worked, Emp Job Satisfaction, Over Time Status
+- **Key columns:** Emp Department, Emp Last Salary Hike, Emp Environment Satisfaction, Emp Work Life Balance, Job role, Num Companies Worked, Emp Job Satisfaction, Over Time Status more..
 
 Avg. Performance Rating
-- **Data set Link:** ([EPD](https://github.com/anandshaw123/Employee-Performance-Analytics-Tableau-Dashboard/blob/main/Employee%20Performance%20Dataset.xlsx))
+- **Data set Link:** ([Click Here](https://github.com/anandshaw123/Employee-Performance-Analytics-Tableau-Dashboard/blob/main/Employee%20Performance%20Dataset.xlsx))
 
 
 
